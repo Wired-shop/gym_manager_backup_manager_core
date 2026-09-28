@@ -14,7 +14,7 @@ dependencies:
   gym_manager_core:
     git:
       url: https://github.com/Wired-shop/gym_manager_core.git
-      ref: v1.0.0
+      ref: stable
   # path: ^1.8.0
 
 dev_dependencies:
